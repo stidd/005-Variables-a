@@ -3,7 +3,7 @@ void setup() {
 }
 
 void draw() {
-// Step 1: Write code that draws the following screenshots 
+// Step 1: Write code that draws the screenshot in the files 
 // with hard-coded values. (Feel free to use colors 
 // instead of grayscale.)
 
